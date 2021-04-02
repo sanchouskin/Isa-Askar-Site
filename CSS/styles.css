@@ -1,0 +1,177 @@
+body {
+  color: #fff;
+  margin: 0;
+  font-family: 'Raleway', sans-serif;
+}
+.container{
+
+position: relative;
+margin: 30px 200px;
+
+
+
+}
+
+.middle-container{
+  position: absolute;
+  left: 300px;
+  top: 310px;
+
+
+
+
+
+}
+
+
+.work-experience{
+  position: absolute;
+  top: 280px;
+  left: 450px;
+  width: 60%;
+
+}
+
+.Specializations{
+  position: absolute;
+  top: 767px;
+  left: 0;
+
+
+
+
+}
+
+
+
+.LS{
+  position: absolute;
+  top: 800px;
+  left: 280px;
+  border-left: 1px solid gray;
+            height: 230px;
+            position:absolute;
+            top: 767px;
+
+
+}
+.isa-ph {
+  width: 15%;
+  position: absolute;
+  left: 350px;
+  bottom: 372px;
+
+  float: left;
+}
+
+.h2-vertical{
+  font-weight: 400;
+  color: black;
+  position: absolute;
+  left: 20px;
+  width: 300px;
+
+
+
+
+
+}
+
+
+.hr{
+  color: #928e8e;
+
+  border: none;
+}
+
+.h2-blue{
+  position: absolute;
+  top: 45px;
+  left: 450px;
+  font-weight: 300;
+  color: #66BFBF;
+}
+.h2-black{
+  position: absolute;
+  top: 85px;
+  left: 450px;
+  font-weight: 300;
+  color: black;
+}
+.h2-work{
+  font-weight: 400;
+  color: black;
+}
+
+.h4-blue{
+  color:#11999E;
+  margin-bottom: 5px;
+}
+
+.h2-work-middle{
+  font-weight: 400;
+  color: black;
+  margin-bottom: 35px;
+  margin-top: 35px;
+}
+
+.h4-ls{
+  color:#11999E;
+  margin-bottom: 1px;
+  margin-left: 20px;
+  margin-top: 15px;
+}
+
+.h4-black{
+  font-weight: bold;
+  color: black;
+  margin-top: 5px;
+}
+
+.h4-blue-mid{
+  color:#11999E;
+  margin-bottom: 2px;
+}
+
+.h2-work-mid{
+  font-weight: 400;
+  color: black;
+  margin-bottom: 40px;
+}
+
+.h4-blue-middle{
+  color:#11999E;
+  margin-bottom: 2px;
+  margin-top: 20px;
+}
+.description-mid{
+  margin-top: 2px;
+  margin-bottom: 5px;
+  color: #8f8f8f;
+
+}
+.pbold{
+  font-weight: bold;
+  color: black;
+  position: relative;
+  left: 20px;
+  width: 300px;
+  margin-top: 0;
+  margin-bottom: 20px;
+
+}
+
+.description{
+
+  color: #8f8f8f;
+}
+.info {
+
+  color: #8f8f8f;
+  position: absolute;
+  top: 130px;
+  left: 450px;
+  width: 60%;
+  margin-top: 35px;
+
+}
